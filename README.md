@@ -1,0 +1,2 @@
+# alx-frontend-javascript
+THIS IS A FRONTEND JAVASCRIPT SPECIALISATION
